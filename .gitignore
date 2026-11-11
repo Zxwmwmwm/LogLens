@@ -1,0 +1,4 @@
+# Locally generated libraries and packages are distributed via releases.
+artifacts/
+*.log
+.DS_Store

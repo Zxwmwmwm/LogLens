@@ -1,0 +1,9 @@
+{
+  "type": "preload-native",
+  "name": "LogLens",
+  "author": "Zxwmwmwm",
+  "description": "Local logcat viewer with filters, selection, and Downloads export.",
+  "version": "1.0.0",
+  "entry": "libLogLens.so",
+  "minecraft_versions": ["1.26.62", "1.26.62.*"]
+}
