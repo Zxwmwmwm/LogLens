@@ -1,6 +1,10 @@
 # LogLens 1.0.0
 
-A simple, standalone local logcat viewer for LeviLauncher on Android ARM64. Author: Zxwmwmwm. Targets Minecraft Bedrock 1.26.62 and 1.26.62.x. Android device testing is pending.
+LogLens is a standalone logcat viewer for LeviLauncher that puts live, color-coded logs right at your fingertips. Filter messages by severity, keyword, tag or regex, select the lines or text you need, and save them as a `.txt` file in Downloads. Its draggable floating button keeps the viewer close at hand while you play.
+
+**Author:** Zxwmwmwm  
+**Platform:** Android ARM64  
+**Minecraft Bedrock:** 1.26.62 and 1.26.62.x
 
 ## Install
 
